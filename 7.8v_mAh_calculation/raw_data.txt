@@ -1,0 +1,1495 @@
+10:05:41	Battery Voltage: 7.73 V
+10:05:41	Current: 840.69 mA
+10:05:41	Capacity: 2.34 mAh
+10:05:41	
+10:05:51	Battery Voltage: 8.03 V
+10:05:51	Current: 872.54 mA
+10:05:51	Capacity: 4.76 mAh
+10:05:51	
+10:06:01	Battery Voltage: 7.92 V
+10:06:01	Current: 860.86 mA
+10:06:01	Capacity: 7.15 mAh
+10:06:01	
+10:06:11	Battery Voltage: 7.33 V
+10:06:11	Current: 797.17 mA
+10:06:11	Capacity: 9.37 mAh
+10:06:11	
+10:06:21	Battery Voltage: 7.79 V
+10:06:21	Current: 847.06 mA
+10:06:21	Capacity: 11.72 mAh
+10:06:21	
+10:06:31	Battery Voltage: 7.93 V
+10:06:31	Current: 861.92 mA
+10:06:31	Capacity: 14.11 mAh
+10:06:31	
+10:06:41	Battery Voltage: 7.90 V
+10:06:41	Current: 858.74 mA
+10:06:41	Capacity: 16.50 mAh
+10:06:41	
+10:06:51	Battery Voltage: 7.88 V
+10:06:51	Current: 856.62 mA
+10:06:51	Capacity: 18.88 mAh
+10:06:51	
+10:07:01	Battery Voltage: 7.92 V
+10:07:01	Current: 860.86 mA
+10:07:01	Capacity: 21.27 mAh
+10:07:01	
+10:07:11	Battery Voltage: 7.91 V
+10:07:11	Current: 859.80 mA
+10:07:11	Capacity: 23.66 mAh
+10:07:11	
+10:07:21	Battery Voltage: 7.90 V
+10:07:21	Current: 858.74 mA
+10:07:21	Capacity: 26.05 mAh
+10:07:21	
+10:07:31	Battery Voltage: 7.90 V
+10:07:31	Current: 858.74 mA
+10:07:31	Capacity: 28.43 mAh
+10:07:31	
+10:07:41	Battery Voltage: 7.89 V
+10:07:41	Current: 857.68 mA
+10:07:41	Capacity: 30.81 mAh
+10:07:41	
+10:07:51	Battery Voltage: 7.87 V
+10:07:51	Current: 855.55 mA
+10:07:51	Capacity: 33.19 mAh
+10:07:51	
+10:08:01	Battery Voltage: 7.88 V
+10:08:01	Current: 856.62 mA
+10:08:01	Capacity: 35.57 mAh
+10:08:01	
+10:08:11	Battery Voltage: 7.87 V
+10:08:11	Current: 855.55 mA
+10:08:11	Capacity: 37.95 mAh
+10:08:11	
+10:08:21	Battery Voltage: 7.85 V
+10:08:21	Current: 853.43 mA
+10:08:21	Capacity: 40.32 mAh
+10:08:21	
+10:08:31	Battery Voltage: 7.85 V
+10:08:31	Current: 853.43 mA
+10:08:31	Capacity: 42.69 mAh
+10:08:31	
+10:08:41	Battery Voltage: 7.85 V
+10:08:41	Current: 853.43 mA
+10:08:41	Capacity: 45.06 mAh
+10:08:41	
+10:08:51	Battery Voltage: 7.84 V
+10:08:51	Current: 852.37 mA
+10:08:51	Capacity: 47.43 mAh
+10:08:51	
+10:09:01	Battery Voltage: 7.81 V
+10:09:01	Current: 849.18 mA
+10:09:01	Capacity: 49.79 mAh
+10:09:01	
+10:09:11	Battery Voltage: 7.81 V
+10:09:11	Current: 849.18 mA
+10:09:11	Capacity: 52.15 mAh
+10:09:11	
+10:09:21	Battery Voltage: 7.80 V
+10:09:21	Current: 848.12 mA
+10:09:21	Capacity: 54.51 mAh
+10:09:21	
+10:09:31	Battery Voltage: 7.79 V
+10:09:31	Current: 847.06 mA
+10:09:31	Capacity: 56.86 mAh
+10:09:31	
+10:09:41	Battery Voltage: 7.72 V
+10:09:41	Current: 839.63 mA
+10:09:41	Capacity: 59.19 mAh
+10:09:41	
+10:09:51	Battery Voltage: 7.71 V
+10:09:51	Current: 837.51 mA
+10:09:51	Capacity: 61.52 mAh
+10:09:51	
+10:10:01	Battery Voltage: 7.63 V
+10:10:01	Current: 829.02 mA
+10:10:01	Capacity: 63.82 mAh
+10:10:01	
+10:10:11	Battery Voltage: 7.72 V
+10:10:11	Current: 839.63 mA
+10:10:11	Capacity: 66.15 mAh
+10:10:11	
+10:10:21	Battery Voltage: 7.71 V
+10:10:21	Current: 838.57 mA
+10:10:21	Capacity: 68.48 mAh
+10:10:21	
+10:10:31	Battery Voltage: 7.71 V
+10:10:31	Current: 837.51 mA
+10:10:31	Capacity: 70.81 mAh
+10:10:31	
+10:10:41	Battery Voltage: 7.70 V
+10:10:41	Current: 836.45 mA
+10:10:41	Capacity: 73.13 mAh
+10:10:41	
+10:10:51	Battery Voltage: 7.69 V
+10:10:51	Current: 835.39 mA
+10:10:51	Capacity: 75.46 mAh
+10:10:51	
+10:11:01	Battery Voltage: 7.68 V
+10:11:01	Current: 834.32 mA
+10:11:01	Capacity: 77.77 mAh
+10:11:01	
+10:11:11	Battery Voltage: 7.69 V
+10:11:11	Current: 835.39 mA
+10:11:11	Capacity: 80.09 mAh
+10:11:11	
+10:11:21	Battery Voltage: 7.67 V
+10:11:21	Current: 833.26 mA
+10:11:21	Capacity: 82.41 mAh
+10:11:21	
+10:11:31	Battery Voltage: 7.67 V
+10:11:31	Current: 833.26 mA
+10:11:31	Capacity: 84.72 mAh
+10:11:31	
+10:11:41	Battery Voltage: 7.68 V
+10:11:41	Current: 834.32 mA
+10:11:41	Capacity: 87.04 mAh
+10:11:41	
+10:11:51	Battery Voltage: 7.63 V
+10:11:51	Current: 829.02 mA
+10:11:51	Capacity: 89.35 mAh
+10:11:51	
+10:12:01	Battery Voltage: 7.63 V
+10:12:01	Current: 829.02 mA
+10:12:01	Capacity: 91.65 mAh
+10:12:01	
+10:12:11	Battery Voltage: 7.62 V
+10:12:11	Current: 827.96 mA
+10:12:11	Capacity: 93.95 mAh
+10:12:11	
+10:12:21	Battery Voltage: 7.62 V
+10:12:21	Current: 827.96 mA
+10:12:21	Capacity: 96.25 mAh
+10:12:21	
+10:12:31	Battery Voltage: 7.62 V
+10:12:31	Current: 827.96 mA
+10:12:31	Capacity: 98.55 mAh
+10:12:31	
+10:12:41	Battery Voltage: 7.61 V
+10:12:41	Current: 826.89 mA
+10:12:41	Capacity: 100.85 mAh
+10:12:41	
+10:12:51	Battery Voltage: 7.59 V
+10:12:51	Current: 824.77 mA
+10:12:51	Capacity: 103.14 mAh
+10:12:51	
+10:13:02	Battery Voltage: 0.00 V
+10:13:02	Current: 0.00 mA
+10:13:02	Capacity: 103.14 mAh
+10:13:02	
+10:13:11	Battery Voltage: 0.00 V
+10:13:11	Current: 0.00 mA
+10:13:11	Capacity: 103.14 mAh
+10:13:11	
+10:13:21	Battery Voltage: 0.00 V
+10:13:21	Current: 0.00 mA
+10:13:21	Capacity: 103.14 mAh
+10:13:21	
+10:13:31	Battery Voltage: 0.00 V
+10:13:31	Current: 0.00 mA
+10:13:31	Capacity: 103.14 mAh
+10:13:31	
+10:13:41	Battery Voltage: 0.00 V
+10:13:41	Current: 0.00 mA
+10:13:41	Capacity: 103.14 mAh
+10:13:41	
+10:13:51	Battery Voltage: 7.64 V
+10:13:51	Current: 830.08 mA
+10:13:51	Capacity: 105.44 mAh
+10:13:51	
+10:14:02	Battery Voltage: 7.63 V
+10:14:02	Current: 829.02 mA
+10:14:02	Capacity: 107.75 mAh
+10:14:02	
+10:14:11	Battery Voltage: 7.59 V
+10:14:11	Current: 824.77 mA
+10:14:11	Capacity: 110.04 mAh
+10:14:11	
+10:14:22	Battery Voltage: 7.52 V
+10:14:22	Current: 817.34 mA
+10:14:22	Capacity: 112.31 mAh
+10:14:22	
+10:14:31	Battery Voltage: 7.51 V
+10:14:31	Current: 816.28 mA
+10:14:31	Capacity: 114.58 mAh
+10:14:31	
+10:14:42	Battery Voltage: 7.50 V
+10:14:42	Current: 815.22 mA
+10:14:42	Capacity: 116.84 mAh
+10:14:42	
+10:14:52	Battery Voltage: 7.49 V
+10:14:52	Current: 814.16 mA
+10:14:52	Capacity: 119.11 mAh
+10:14:52	
+10:15:02	Battery Voltage: 7.48 V
+10:15:02	Current: 813.09 mA
+10:15:02	Capacity: 121.36 mAh
+10:15:02	
+10:15:11	Battery Voltage: 7.48 V
+10:15:11	Current: 813.09 mA
+10:15:11	Capacity: 123.62 mAh
+10:15:11	
+10:15:22	Battery Voltage: 7.43 V
+10:15:22	Current: 807.79 mA
+10:15:22	Capacity: 125.87 mAh
+10:15:22	
+10:15:32	Battery Voltage: 7.45 V
+10:15:32	Current: 809.91 mA
+10:15:32	Capacity: 128.12 mAh
+10:15:32	
+10:15:42	Battery Voltage: 7.43 V
+10:15:42	Current: 807.79 mA
+10:15:42	Capacity: 130.36 mAh
+10:15:42	
+10:15:52	Battery Voltage: 7.41 V
+10:15:52	Current: 805.66 mA
+10:15:52	Capacity: 132.60 mAh
+10:15:52	
+10:16:02	Battery Voltage: 7.41 V
+10:16:02	Current: 805.66 mA
+10:16:02	Capacity: 134.84 mAh
+10:16:02	
+10:16:12	Battery Voltage: 7.39 V
+10:16:12	Current: 803.54 mA
+10:16:12	Capacity: 137.07 mAh
+10:16:12	
+10:16:22	Battery Voltage: 7.38 V
+10:16:22	Current: 802.48 mA
+10:16:22	Capacity: 139.30 mAh
+10:16:22	
+10:16:32	Battery Voltage: 7.37 V
+10:16:32	Current: 801.42 mA
+10:16:32	Capacity: 141.53 mAh
+10:16:32	
+10:16:42	Battery Voltage: 7.37 V
+10:16:42	Current: 801.42 mA
+10:16:42	Capacity: 143.75 mAh
+10:16:42	
+10:16:52	Battery Voltage: 7.36 V
+10:16:52	Current: 800.36 mA
+10:16:52	Capacity: 145.98 mAh
+10:16:52	
+10:17:02	Battery Voltage: 7.36 V
+10:17:02	Current: 800.36 mA
+10:17:02	Capacity: 148.20 mAh
+10:17:02	
+10:17:12	Battery Voltage: 7.36 V
+10:17:12	Current: 800.36 mA
+10:17:12	Capacity: 150.43 mAh
+10:17:12	
+10:17:22	Battery Voltage: 7.35 V
+10:17:22	Current: 799.30 mA
+10:17:22	Capacity: 152.65 mAh
+10:17:22	
+10:17:32	Battery Voltage: 7.36 V
+10:17:32	Current: 800.36 mA
+10:17:32	Capacity: 154.87 mAh
+10:17:32	
+10:17:42	Battery Voltage: 7.35 V
+10:17:42	Current: 799.30 mA
+10:17:42	Capacity: 157.09 mAh
+10:17:42	
+10:17:52	Battery Voltage: 7.35 V
+10:17:52	Current: 799.30 mA
+10:17:52	Capacity: 159.31 mAh
+10:17:52	
+10:18:02	Battery Voltage: 7.34 V
+10:18:02	Current: 798.23 mA
+10:18:02	Capacity: 161.53 mAh
+10:18:02	
+10:18:12	Battery Voltage: 7.33 V
+10:18:12	Current: 797.17 mA
+10:18:12	Capacity: 163.74 mAh
+10:18:12	
+10:18:22	Battery Voltage: 7.33 V
+10:18:22	Current: 797.17 mA
+10:18:22	Capacity: 165.96 mAh
+10:18:22	
+10:18:32	Battery Voltage: 7.33 V
+10:18:32	Current: 797.17 mA
+10:18:32	Capacity: 168.17 mAh
+10:18:32	
+10:18:42	Battery Voltage: 7.32 V
+10:18:42	Current: 796.11 mA
+10:18:42	Capacity: 170.38 mAh
+10:18:42	
+10:18:52	Battery Voltage: 7.31 V
+10:18:52	Current: 795.05 mA
+10:18:52	Capacity: 172.59 mAh
+10:18:52	
+10:19:02	Battery Voltage: 7.32 V
+10:19:02	Current: 796.11 mA
+10:19:02	Capacity: 174.81 mAh
+10:19:02	
+10:19:12	Battery Voltage: 7.32 V
+10:19:12	Current: 796.11 mA
+10:19:12	Capacity: 177.02 mAh
+10:19:12	
+10:19:22	Battery Voltage: 7.32 V
+10:19:22	Current: 796.11 mA
+10:19:22	Capacity: 179.23 mAh
+10:19:22	
+10:19:32	Battery Voltage: 7.31 V
+10:19:32	Current: 795.05 mA
+10:19:32	Capacity: 181.44 mAh
+10:19:32	
+10:19:42	Battery Voltage: 7.30 V
+10:19:42	Current: 793.99 mA
+10:19:42	Capacity: 183.64 mAh
+10:19:42	
+10:19:52	Battery Voltage: 7.30 V
+10:19:52	Current: 793.99 mA
+10:19:52	Capacity: 185.85 mAh
+10:19:52	
+10:20:02	Battery Voltage: 7.30 V
+10:20:02	Current: 793.99 mA
+10:20:02	Capacity: 188.06 mAh
+10:20:02	
+10:20:12	Battery Voltage: 7.29 V
+10:20:12	Current: 792.93 mA
+10:20:12	Capacity: 190.26 mAh
+10:20:12	
+10:20:22	Battery Voltage: 7.30 V
+10:20:22	Current: 793.99 mA
+10:20:22	Capacity: 192.47 mAh
+10:20:22	
+10:20:32	Battery Voltage: 7.28 V
+10:20:32	Current: 790.80 mA
+10:20:32	Capacity: 194.66 mAh
+10:20:32	
+10:20:42	Battery Voltage: 7.27 V
+10:20:42	Current: 789.74 mA
+10:20:42	Capacity: 196.86 mAh
+10:20:42	
+10:20:52	Battery Voltage: 7.27 V
+10:20:52	Current: 789.74 mA
+10:20:52	Capacity: 199.05 mAh
+10:20:52	
+10:21:02	Battery Voltage: 7.26 V
+10:21:02	Current: 788.68 mA
+10:21:02	Capacity: 201.24 mAh
+10:21:02	
+10:21:12	Battery Voltage: 7.26 V
+10:21:12	Current: 788.68 mA
+10:21:12	Capacity: 203.43 mAh
+10:21:12	
+10:21:22	Battery Voltage: 7.26 V
+10:21:22	Current: 788.68 mA
+10:21:22	Capacity: 205.62 mAh
+10:21:22	
+10:21:32	Battery Voltage: 7.26 V
+10:21:32	Current: 788.68 mA
+10:21:32	Capacity: 207.82 mAh
+10:21:32	
+10:21:42	Battery Voltage: 7.25 V
+10:21:42	Current: 787.62 mA
+10:21:42	Capacity: 210.00 mAh
+10:21:42	
+10:21:52	Battery Voltage: 7.25 V
+10:21:52	Current: 787.62 mA
+10:21:52	Capacity: 212.19 mAh
+10:21:52	
+10:22:02	Battery Voltage: 7.24 V
+10:22:02	Current: 786.56 mA
+10:22:02	Capacity: 214.38 mAh
+10:22:02	
+10:22:12	Battery Voltage: 7.24 V
+10:22:12	Current: 786.56 mA
+10:22:12	Capacity: 216.56 mAh
+10:22:12	
+10:22:22	Battery Voltage: 7.23 V
+10:22:22	Current: 785.50 mA
+10:22:22	Capacity: 218.74 mAh
+10:22:22	
+10:22:32	Battery Voltage: 7.23 V
+10:22:32	Current: 785.50 mA
+10:22:32	Capacity: 220.93 mAh
+10:22:32	
+10:22:42	Battery Voltage: 7.24 V
+10:22:42	Current: 786.56 mA
+10:22:42	Capacity: 223.11 mAh
+10:22:42	
+10:22:52	Battery Voltage: 7.22 V
+10:22:52	Current: 784.43 mA
+10:22:52	Capacity: 225.29 mAh
+10:22:52	
+10:23:02	Battery Voltage: 7.22 V
+10:23:02	Current: 784.43 mA
+10:23:02	Capacity: 227.47 mAh
+10:23:02	
+10:23:12	Battery Voltage: 7.22 V
+10:23:12	Current: 784.43 mA
+10:23:12	Capacity: 229.65 mAh
+10:23:12	
+10:23:22	Battery Voltage: 7.22 V
+10:23:22	Current: 784.43 mA
+10:23:22	Capacity: 231.83 mAh
+10:23:22	
+10:23:32	Battery Voltage: 7.22 V
+10:23:32	Current: 784.43 mA
+10:23:32	Capacity: 234.01 mAh
+10:23:32	
+10:23:42	Battery Voltage: 7.21 V
+10:23:42	Current: 783.37 mA
+10:23:42	Capacity: 236.19 mAh
+10:23:42	
+10:23:52	Battery Voltage: 7.21 V
+10:23:52	Current: 783.37 mA
+10:23:52	Capacity: 238.36 mAh
+10:23:52	
+10:24:02	Battery Voltage: 7.19 V
+10:24:02	Current: 781.25 mA
+10:24:02	Capacity: 240.53 mAh
+10:24:02	
+10:24:12	Battery Voltage: 7.20 V
+10:24:12	Current: 782.31 mA
+10:24:12	Capacity: 242.71 mAh
+10:24:12	
+10:24:22	Battery Voltage: 7.20 V
+10:24:22	Current: 782.31 mA
+10:24:22	Capacity: 244.88 mAh
+10:24:22	
+10:24:32	Battery Voltage: 7.18 V
+10:24:32	Current: 780.19 mA
+10:24:32	Capacity: 247.05 mAh
+10:24:32	
+10:24:42	Battery Voltage: 7.18 V
+10:24:42	Current: 780.19 mA
+10:24:42	Capacity: 249.22 mAh
+10:24:42	
+10:24:52	Battery Voltage: 7.17 V
+10:24:52	Current: 779.13 mA
+10:24:52	Capacity: 251.38 mAh
+10:24:52	
+10:25:02	Battery Voltage: 7.17 V
+10:25:02	Current: 779.13 mA
+10:25:02	Capacity: 253.54 mAh
+10:25:02	
+10:25:12	Battery Voltage: 7.17 V
+10:25:12	Current: 779.13 mA
+10:25:12	Capacity: 255.71 mAh
+10:25:12	
+10:25:22	Battery Voltage: 7.16 V
+10:25:22	Current: 778.07 mA
+10:25:22	Capacity: 257.87 mAh
+10:25:22	
+10:25:32	Battery Voltage: 7.16 V
+10:25:32	Current: 778.07 mA
+10:25:32	Capacity: 260.03 mAh
+10:25:32	
+10:25:42	Battery Voltage: 7.15 V
+10:25:42	Current: 777.00 mA
+10:25:42	Capacity: 262.19 mAh
+10:25:42	
+10:25:52	Battery Voltage: 7.15 V
+10:25:52	Current: 777.00 mA
+10:25:52	Capacity: 264.35 mAh
+10:25:52	
+10:26:02	Battery Voltage: 7.14 V
+10:26:02	Current: 775.94 mA
+10:26:02	Capacity: 266.51 mAh
+10:26:02	
+10:26:12	Battery Voltage: 7.15 V
+10:26:12	Current: 777.00 mA
+10:26:12	Capacity: 268.66 mAh
+10:26:12	
+10:26:22	Battery Voltage: 7.15 V
+10:26:22	Current: 777.00 mA
+10:26:22	Capacity: 270.82 mAh
+10:26:22	
+10:26:32	Battery Voltage: 7.15 V
+10:26:32	Current: 777.00 mA
+10:26:32	Capacity: 272.98 mAh
+10:26:32	
+10:26:42	Battery Voltage: 7.12 V
+10:26:42	Current: 773.82 mA
+10:26:42	Capacity: 275.13 mAh
+10:26:42	
+10:26:52	Battery Voltage: 7.13 V
+10:26:52	Current: 774.88 mA
+10:26:52	Capacity: 277.28 mAh
+10:26:52	
+10:27:02	Battery Voltage: 7.12 V
+10:27:02	Current: 773.82 mA
+10:27:02	Capacity: 279.43 mAh
+10:27:02	
+10:27:12	Battery Voltage: 7.11 V
+10:27:12	Current: 772.76 mA
+10:27:12	Capacity: 281.58 mAh
+10:27:12	
+10:27:22	Battery Voltage: 7.11 V
+10:27:22	Current: 772.76 mA
+10:27:22	Capacity: 283.73 mAh
+10:27:22	
+10:27:32	Battery Voltage: 7.11 V
+10:27:32	Current: 772.76 mA
+10:27:32	Capacity: 285.88 mAh
+10:27:32	
+10:27:42	Battery Voltage: 7.10 V
+10:27:42	Current: 771.70 mA
+10:27:42	Capacity: 288.02 mAh
+10:27:42	
+10:27:52	Battery Voltage: 7.10 V
+10:27:52	Current: 771.70 mA
+10:27:52	Capacity: 290.16 mAh
+10:27:52	
+10:28:02	Battery Voltage: 7.10 V
+10:28:02	Current: 771.70 mA
+10:28:02	Capacity: 292.31 mAh
+10:28:02	
+10:28:12	Battery Voltage: 7.08 V
+10:28:12	Current: 769.57 mA
+10:28:12	Capacity: 294.45 mAh
+10:28:12	
+10:28:22	Battery Voltage: 7.07 V
+10:28:22	Current: 768.51 mA
+10:28:22	Capacity: 296.58 mAh
+10:28:22	
+10:28:32	Battery Voltage: 7.06 V
+10:28:32	Current: 767.45 mA
+10:28:32	Capacity: 298.71 mAh
+10:28:32	
+10:28:42	Battery Voltage: 7.06 V
+10:28:42	Current: 767.45 mA
+10:28:42	Capacity: 300.85 mAh
+10:28:42	
+10:28:52	Battery Voltage: 7.06 V
+10:28:52	Current: 767.45 mA
+10:28:52	Capacity: 302.98 mAh
+10:28:52	
+10:29:02	Battery Voltage: 7.06 V
+10:29:02	Current: 767.45 mA
+10:29:02	Capacity: 305.11 mAh
+10:29:02	
+10:29:12	Battery Voltage: 7.05 V
+10:29:12	Current: 766.39 mA
+10:29:12	Capacity: 307.24 mAh
+10:29:12	
+10:29:22	Battery Voltage: 7.05 V
+10:29:22	Current: 766.39 mA
+10:29:22	Capacity: 309.37 mAh
+10:29:22	
+10:29:32	Battery Voltage: 7.05 V
+10:29:32	Current: 766.39 mA
+10:29:32	Capacity: 311.50 mAh
+10:29:32	
+10:29:42	Battery Voltage: 7.05 V
+10:29:42	Current: 766.39 mA
+10:29:42	Capacity: 313.63 mAh
+10:29:42	
+10:29:52	Battery Voltage: 7.04 V
+10:29:52	Current: 765.33 mA
+10:29:52	Capacity: 315.75 mAh
+10:29:52	
+10:30:02	Battery Voltage: 7.04 V
+10:30:02	Current: 765.33 mA
+10:30:02	Capacity: 317.88 mAh
+10:30:02	
+10:30:12	Battery Voltage: 7.02 V
+10:30:12	Current: 763.20 mA
+10:30:12	Capacity: 320.00 mAh
+10:30:12	
+10:30:22	Battery Voltage: 7.02 V
+10:30:22	Current: 763.20 mA
+10:30:22	Capacity: 322.12 mAh
+10:30:22	
+10:30:32	Battery Voltage: 7.02 V
+10:30:32	Current: 763.20 mA
+10:30:32	Capacity: 324.24 mAh
+10:30:32	
+10:30:42	Battery Voltage: 7.01 V
+10:30:42	Current: 762.14 mA
+10:30:42	Capacity: 326.36 mAh
+10:30:42	
+10:30:52	Battery Voltage: 7.00 V
+10:30:52	Current: 761.08 mA
+10:30:52	Capacity: 328.47 mAh
+10:30:52	
+10:31:02	Battery Voltage: 7.00 V
+10:31:02	Current: 761.08 mA
+10:31:02	Capacity: 330.59 mAh
+10:31:02	
+10:31:12	Battery Voltage: 6.99 V
+10:31:12	Current: 760.02 mA
+10:31:12	Capacity: 332.70 mAh
+10:31:12	
+10:31:22	Battery Voltage: 6.99 V
+10:31:22	Current: 760.02 mA
+10:31:22	Capacity: 334.81 mAh
+10:31:22	
+10:31:32	Battery Voltage: 6.98 V
+10:31:32	Current: 758.96 mA
+10:31:32	Capacity: 336.92 mAh
+10:31:32	
+10:31:42	Battery Voltage: 6.98 V
+10:31:42	Current: 758.96 mA
+10:31:42	Capacity: 339.03 mAh
+10:31:42	
+10:31:52	Battery Voltage: 6.98 V
+10:31:52	Current: 758.96 mA
+10:31:52	Capacity: 341.14 mAh
+10:31:52	
+10:32:02	Battery Voltage: 6.97 V
+10:32:02	Current: 757.90 mA
+10:32:02	Capacity: 343.24 mAh
+10:32:02	
+10:32:12	Battery Voltage: 6.97 V
+10:32:12	Current: 757.90 mA
+10:32:12	Capacity: 345.35 mAh
+10:32:12	
+10:32:22	Battery Voltage: 6.97 V
+10:32:22	Current: 757.90 mA
+10:32:22	Capacity: 347.45 mAh
+10:32:22	
+10:32:32	Battery Voltage: 6.96 V
+10:32:32	Current: 756.84 mA
+10:32:32	Capacity: 349.56 mAh
+10:32:32	
+10:32:42	Battery Voltage: 6.96 V
+10:32:42	Current: 756.84 mA
+10:32:42	Capacity: 351.66 mAh
+10:32:42	
+10:32:52	Battery Voltage: 6.96 V
+10:32:52	Current: 756.84 mA
+10:32:52	Capacity: 353.76 mAh
+10:32:52	
+10:33:02	Battery Voltage: 6.95 V
+10:33:02	Current: 755.77 mA
+10:33:02	Capacity: 355.86 mAh
+10:33:02	
+10:33:12	Battery Voltage: 6.96 V
+10:33:12	Current: 756.84 mA
+10:33:12	Capacity: 357.96 mAh
+10:33:12	
+10:33:22	Battery Voltage: 6.95 V
+10:33:22	Current: 755.77 mA
+10:33:22	Capacity: 360.06 mAh
+10:33:22	
+10:33:32	Battery Voltage: 6.94 V
+10:33:32	Current: 754.71 mA
+10:33:32	Capacity: 362.16 mAh
+10:33:32	
+10:33:42	Battery Voltage: 6.94 V
+10:33:42	Current: 754.71 mA
+10:33:42	Capacity: 364.26 mAh
+10:33:42	
+10:33:52	Battery Voltage: 6.94 V
+10:33:52	Current: 754.71 mA
+10:33:52	Capacity: 366.35 mAh
+10:33:52	
+10:34:02	Battery Voltage: 6.93 V
+10:34:02	Current: 753.65 mA
+10:34:02	Capacity: 368.45 mAh
+10:34:02	
+10:34:12	Battery Voltage: 6.92 V
+10:34:12	Current: 752.59 mA
+10:34:12	Capacity: 370.54 mAh
+10:34:12	
+10:34:22	Battery Voltage: 6.92 V
+10:34:22	Current: 752.59 mA
+10:34:22	Capacity: 372.63 mAh
+10:34:22	
+10:34:32	Battery Voltage: 6.92 V
+10:34:32	Current: 752.59 mA
+10:34:32	Capacity: 374.72 mAh
+10:34:32	
+10:34:42	Battery Voltage: 6.91 V
+10:34:42	Current: 751.53 mA
+10:34:42	Capacity: 376.81 mAh
+10:34:42	
+10:34:52	Battery Voltage: 6.91 V
+10:34:52	Current: 751.53 mA
+10:34:52	Capacity: 378.90 mAh
+10:34:52	
+10:35:02	Battery Voltage: 6.91 V
+10:35:02	Current: 751.53 mA
+10:35:02	Capacity: 380.98 mAh
+10:35:02	
+10:35:12	Battery Voltage: 6.90 V
+10:35:12	Current: 750.47 mA
+10:35:12	Capacity: 383.07 mAh
+10:35:12	
+10:35:22	Battery Voltage: 6.88 V
+10:35:22	Current: 748.34 mA
+10:35:22	Capacity: 385.15 mAh
+10:35:22	
+10:35:32	Battery Voltage: 6.88 V
+10:35:32	Current: 748.34 mA
+10:35:32	Capacity: 387.23 mAh
+10:35:32	
+10:35:42	Battery Voltage: 6.88 V
+10:35:42	Current: 748.34 mA
+10:35:42	Capacity: 389.31 mAh
+10:35:42	
+10:35:52	Battery Voltage: 6.88 V
+10:35:52	Current: 747.28 mA
+10:35:52	Capacity: 391.38 mAh
+10:35:52	
+10:36:03	Battery Voltage: 6.88 V
+10:36:03	Current: 748.34 mA
+10:36:03	Capacity: 393.46 mAh
+10:36:03	
+10:36:12	Battery Voltage: 6.93 V
+10:36:12	Current: 753.65 mA
+10:36:12	Capacity: 395.56 mAh
+10:36:12	
+10:36:23	Battery Voltage: 6.90 V
+10:36:23	Current: 750.47 mA
+10:36:23	Capacity: 397.64 mAh
+10:36:23	
+10:36:33	Battery Voltage: 6.90 V
+10:36:33	Current: 750.47 mA
+10:36:33	Capacity: 399.73 mAh
+10:36:33	
+10:36:43	Battery Voltage: 6.89 V
+10:36:43	Current: 749.41 mA
+10:36:43	Capacity: 401.81 mAh
+10:36:43	
+10:36:53	Battery Voltage: 6.89 V
+10:36:53	Current: 749.41 mA
+10:36:53	Capacity: 403.89 mAh
+10:36:53	
+10:37:02	Battery Voltage: 6.89 V
+10:37:02	Current: 749.41 mA
+10:37:02	Capacity: 405.97 mAh
+10:37:02	
+10:37:13	Battery Voltage: 6.89 V
+10:37:13	Current: 749.41 mA
+10:37:13	Capacity: 408.05 mAh
+10:37:13	
+10:37:23	Battery Voltage: 6.88 V
+10:37:23	Current: 748.34 mA
+10:37:23	Capacity: 410.13 mAh
+10:37:23	
+10:37:33	Battery Voltage: 6.88 V
+10:37:33	Current: 748.34 mA
+10:37:33	Capacity: 412.21 mAh
+10:37:33	
+10:37:43	Battery Voltage: 6.88 V
+10:37:43	Current: 748.34 mA
+10:37:43	Capacity: 414.29 mAh
+10:37:43	
+10:37:53	Battery Voltage: 6.88 V
+10:37:53	Current: 747.28 mA
+10:37:53	Capacity: 416.37 mAh
+10:37:53	
+10:38:03	Battery Voltage: 6.88 V
+10:38:03	Current: 748.34 mA
+10:38:03	Capacity: 418.45 mAh
+10:38:03	
+10:38:13	Battery Voltage: 6.88 V
+10:38:13	Current: 747.28 mA
+10:38:13	Capacity: 420.52 mAh
+10:38:13	
+10:38:23	Battery Voltage: 6.87 V
+10:38:23	Current: 746.22 mA
+10:38:23	Capacity: 422.60 mAh
+10:38:23	
+10:38:33	Battery Voltage: 6.87 V
+10:38:33	Current: 746.22 mA
+10:38:33	Capacity: 424.67 mAh
+10:38:33	
+10:38:43	Battery Voltage: 6.87 V
+10:38:43	Current: 746.22 mA
+10:38:43	Capacity: 426.74 mAh
+10:38:43	
+10:38:53	Battery Voltage: 6.86 V
+10:38:53	Current: 745.16 mA
+10:38:53	Capacity: 428.81 mAh
+10:38:53	
+10:39:03	Battery Voltage: 6.86 V
+10:39:03	Current: 745.16 mA
+10:39:03	Capacity: 430.88 mAh
+10:39:03	
+10:39:13	Battery Voltage: 6.86 V
+10:39:13	Current: 745.16 mA
+10:39:13	Capacity: 432.95 mAh
+10:39:13	
+10:39:23	Battery Voltage: 6.86 V
+10:39:23	Current: 745.16 mA
+10:39:23	Capacity: 435.02 mAh
+10:39:23	
+10:39:33	Battery Voltage: 6.85 V
+10:39:33	Current: 744.10 mA
+10:39:33	Capacity: 437.09 mAh
+10:39:33	
+10:39:43	Battery Voltage: 6.85 V
+10:39:43	Current: 744.10 mA
+10:39:43	Capacity: 439.16 mAh
+10:39:43	
+10:39:53	Battery Voltage: 6.85 V
+10:39:53	Current: 744.10 mA
+10:39:53	Capacity: 441.23 mAh
+10:39:53	
+10:40:03	Battery Voltage: 6.85 V
+10:40:03	Current: 744.10 mA
+10:40:03	Capacity: 443.29 mAh
+10:40:03	
+10:40:13	Battery Voltage: 6.84 V
+10:40:13	Current: 743.04 mA
+10:40:13	Capacity: 445.36 mAh
+10:40:13	
+10:40:23	Battery Voltage: 6.85 V
+10:40:23	Current: 744.10 mA
+10:40:23	Capacity: 447.43 mAh
+10:40:23	
+10:40:33	Battery Voltage: 6.85 V
+10:40:33	Current: 744.10 mA
+10:40:33	Capacity: 449.49 mAh
+10:40:33	
+10:40:43	Battery Voltage: 6.84 V
+10:40:43	Current: 743.04 mA
+10:40:43	Capacity: 451.56 mAh
+10:40:43	
+10:40:53	Battery Voltage: 6.83 V
+10:40:53	Current: 741.98 mA
+10:40:53	Capacity: 453.62 mAh
+10:40:53	
+10:41:03	Battery Voltage: 6.84 V
+10:41:03	Current: 743.04 mA
+10:41:03	Capacity: 455.68 mAh
+10:41:03	
+10:41:13	Battery Voltage: 6.82 V
+10:41:13	Current: 740.91 mA
+10:41:13	Capacity: 457.74 mAh
+10:41:13	
+10:41:23	Battery Voltage: 6.83 V
+10:41:23	Current: 741.98 mA
+10:41:23	Capacity: 459.80 mAh
+10:41:23	
+10:41:33	Battery Voltage: 6.82 V
+10:41:33	Current: 740.91 mA
+10:41:33	Capacity: 461.86 mAh
+10:41:33	
+10:41:43	Battery Voltage: 6.82 V
+10:41:43	Current: 740.91 mA
+10:41:43	Capacity: 463.92 mAh
+10:41:43	
+10:41:53	Battery Voltage: 6.82 V
+10:41:53	Current: 740.91 mA
+10:41:53	Capacity: 465.98 mAh
+10:41:53	
+10:42:03	Battery Voltage: 6.81 V
+10:42:03	Current: 739.85 mA
+10:42:03	Capacity: 468.03 mAh
+10:42:03	
+10:42:13	Battery Voltage: 6.81 V
+10:42:13	Current: 739.85 mA
+10:42:13	Capacity: 470.09 mAh
+10:42:13	
+10:42:23	Battery Voltage: 6.80 V
+10:42:23	Current: 738.79 mA
+10:42:23	Capacity: 472.14 mAh
+10:42:23	
+10:42:33	Battery Voltage: 6.81 V
+10:42:33	Current: 739.85 mA
+10:42:33	Capacity: 474.20 mAh
+10:42:33	
+10:42:43	Battery Voltage: 6.80 V
+10:42:43	Current: 738.79 mA
+10:42:43	Capacity: 476.25 mAh
+10:42:43	
+10:42:53	Battery Voltage: 6.79 V
+10:42:53	Current: 737.73 mA
+10:42:53	Capacity: 478.30 mAh
+10:42:53	
+10:43:03	Battery Voltage: 6.79 V
+10:43:03	Current: 737.73 mA
+10:43:03	Capacity: 480.35 mAh
+10:43:03	
+10:43:13	Battery Voltage: 6.79 V
+10:43:13	Current: 737.73 mA
+10:43:13	Capacity: 482.40 mAh
+10:43:13	
+10:43:23	Battery Voltage: 6.78 V
+10:43:23	Current: 736.67 mA
+10:43:23	Capacity: 484.45 mAh
+10:43:23	
+10:43:33	Battery Voltage: 6.78 V
+10:43:33	Current: 736.67 mA
+10:43:33	Capacity: 486.49 mAh
+10:43:33	
+10:43:43	Battery Voltage: 6.79 V
+10:43:43	Current: 737.73 mA
+10:43:43	Capacity: 488.54 mAh
+10:43:43	
+10:43:53	Battery Voltage: 6.78 V
+10:43:53	Current: 736.67 mA
+10:43:53	Capacity: 490.59 mAh
+10:43:53	
+10:44:03	Battery Voltage: 6.77 V
+10:44:03	Current: 735.61 mA
+10:44:03	Capacity: 492.63 mAh
+10:44:03	
+10:44:13	Battery Voltage: 6.77 V
+10:44:13	Current: 735.61 mA
+10:44:13	Capacity: 494.68 mAh
+10:44:13	
+10:44:23	Battery Voltage: 6.77 V
+10:44:23	Current: 735.61 mA
+10:44:23	Capacity: 496.72 mAh
+10:44:23	
+10:44:33	Battery Voltage: 6.77 V
+10:44:33	Current: 735.61 mA
+10:44:33	Capacity: 498.76 mAh
+10:44:33	
+10:44:43	Battery Voltage: 6.77 V
+10:44:43	Current: 735.61 mA
+10:44:43	Capacity: 500.81 mAh
+10:44:43	
+10:44:53	Battery Voltage: 6.76 V
+10:44:53	Current: 734.54 mA
+10:44:53	Capacity: 502.85 mAh
+10:44:53	
+10:45:03	Battery Voltage: 6.76 V
+10:45:03	Current: 734.54 mA
+10:45:03	Capacity: 504.89 mAh
+10:45:03	
+10:45:13	Battery Voltage: 6.76 V
+10:45:13	Current: 734.54 mA
+10:45:13	Capacity: 506.93 mAh
+10:45:13	
+10:45:23	Battery Voltage: 6.75 V
+10:45:23	Current: 733.48 mA
+10:45:23	Capacity: 508.97 mAh
+10:45:23	
+10:45:33	Battery Voltage: 6.75 V
+10:45:33	Current: 733.48 mA
+10:45:33	Capacity: 511.01 mAh
+10:45:33	
+10:45:43	Battery Voltage: 6.75 V
+10:45:43	Current: 733.48 mA
+10:45:43	Capacity: 513.04 mAh
+10:45:43	
+10:45:53	Battery Voltage: 6.74 V
+10:45:53	Current: 732.42 mA
+10:45:53	Capacity: 515.08 mAh
+10:45:53	
+10:46:03	Battery Voltage: 6.75 V
+10:46:03	Current: 733.48 mA
+10:46:03	Capacity: 517.12 mAh
+10:46:03	
+10:46:13	Battery Voltage: 6.74 V
+10:46:13	Current: 732.42 mA
+10:46:13	Capacity: 519.15 mAh
+10:46:13	
+10:46:23	Battery Voltage: 6.74 V
+10:46:23	Current: 732.42 mA
+10:46:23	Capacity: 521.19 mAh
+10:46:23	
+10:46:33	Battery Voltage: 6.73 V
+10:46:33	Current: 731.36 mA
+10:46:33	Capacity: 523.22 mAh
+10:46:33	
+10:46:43	Battery Voltage: 6.73 V
+10:46:43	Current: 731.36 mA
+10:46:43	Capacity: 525.25 mAh
+10:46:43	
+10:46:53	Battery Voltage: 6.73 V
+10:46:53	Current: 731.36 mA
+10:46:53	Capacity: 527.28 mAh
+10:46:53	
+10:47:03	Battery Voltage: 6.73 V
+10:47:03	Current: 731.36 mA
+10:47:03	Capacity: 529.31 mAh
+10:47:03	
+10:47:13	Battery Voltage: 6.72 V
+10:47:13	Current: 730.30 mA
+10:47:13	Capacity: 531.34 mAh
+10:47:13	
+10:47:23	Battery Voltage: 6.72 V
+10:47:23	Current: 730.30 mA
+10:47:23	Capacity: 533.37 mAh
+10:47:23	
+10:47:33	Battery Voltage: 6.72 V
+10:47:33	Current: 730.30 mA
+10:47:33	Capacity: 535.40 mAh
+10:47:33	
+10:47:43	Battery Voltage: 6.72 V
+10:47:43	Current: 730.30 mA
+10:47:43	Capacity: 537.43 mAh
+10:47:43	
+10:47:53	Battery Voltage: 6.72 V
+10:47:53	Current: 730.30 mA
+10:47:53	Capacity: 539.46 mAh
+10:47:53	
+10:48:03	Battery Voltage: 6.71 V
+10:48:03	Current: 729.24 mA
+10:48:03	Capacity: 541.49 mAh
+10:48:03	
+10:48:13	Battery Voltage: 6.72 V
+10:48:13	Current: 730.30 mA
+10:48:13	Capacity: 543.51 mAh
+10:48:13	
+10:48:23	Battery Voltage: 6.72 V
+10:48:23	Current: 730.30 mA
+10:48:23	Capacity: 545.54 mAh
+10:48:23	
+10:48:33	Battery Voltage: 6.71 V
+10:48:33	Current: 729.24 mA
+10:48:33	Capacity: 547.57 mAh
+10:48:33	
+10:48:43	Battery Voltage: 6.70 V
+10:48:43	Current: 728.18 mA
+10:48:43	Capacity: 549.59 mAh
+10:48:43	
+10:48:53	Battery Voltage: 6.70 V
+10:48:53	Current: 728.18 mA
+10:48:53	Capacity: 551.62 mAh
+10:48:53	
+10:49:03	Battery Voltage: 6.70 V
+10:49:03	Current: 728.18 mA
+10:49:03	Capacity: 553.64 mAh
+10:49:03	
+10:49:13	Battery Voltage: 6.69 V
+10:49:13	Current: 727.11 mA
+10:49:13	Capacity: 555.66 mAh
+10:49:13	
+10:49:23	Battery Voltage: 6.69 V
+10:49:23	Current: 727.11 mA
+10:49:23	Capacity: 557.68 mAh
+10:49:23	
+10:49:33	Battery Voltage: 6.69 V
+10:49:33	Current: 727.11 mA
+10:49:33	Capacity: 559.70 mAh
+10:49:33	
+10:49:43	Battery Voltage: 6.68 V
+10:49:43	Current: 726.05 mA
+10:49:43	Capacity: 561.72 mAh
+10:49:43	
+10:49:53	Battery Voltage: 6.68 V
+10:49:53	Current: 726.05 mA
+10:49:53	Capacity: 563.73 mAh
+10:49:53	
+10:50:03	Battery Voltage: 6.68 V
+10:50:03	Current: 726.05 mA
+10:50:03	Capacity: 565.75 mAh
+10:50:03	
+10:50:13	Battery Voltage: 6.68 V
+10:50:13	Current: 726.05 mA
+10:50:13	Capacity: 567.77 mAh
+10:50:13	
+10:50:23	Battery Voltage: 6.68 V
+10:50:23	Current: 726.05 mA
+10:50:23	Capacity: 569.78 mAh
+10:50:23	
+10:50:33	Battery Voltage: 6.67 V
+10:50:33	Current: 724.99 mA
+10:50:33	Capacity: 571.80 mAh
+10:50:33	
+10:50:43	Battery Voltage: 6.67 V
+10:50:43	Current: 724.99 mA
+10:50:43	Capacity: 573.81 mAh
+10:50:43	
+10:50:53	Battery Voltage: 6.67 V
+10:50:53	Current: 724.99 mA
+10:50:53	Capacity: 575.83 mAh
+10:50:53	
+10:51:03	Battery Voltage: 6.67 V
+10:51:03	Current: 724.99 mA
+10:51:03	Capacity: 577.84 mAh
+10:51:03	
+10:51:13	Battery Voltage: 6.66 V
+10:51:13	Current: 723.93 mA
+10:51:13	Capacity: 579.85 mAh
+10:51:13	
+10:51:23	Battery Voltage: 6.67 V
+10:51:23	Current: 724.99 mA
+10:51:23	Capacity: 581.87 mAh
+10:51:23	
+10:51:33	Battery Voltage: 6.66 V
+10:51:33	Current: 723.93 mA
+10:51:33	Capacity: 583.88 mAh
+10:51:33	
+10:51:43	Battery Voltage: 6.65 V
+10:51:43	Current: 722.87 mA
+10:51:43	Capacity: 585.89 mAh
+10:51:43	
+10:51:53	Battery Voltage: 6.66 V
+10:51:53	Current: 723.93 mA
+10:51:53	Capacity: 587.90 mAh
+10:51:53	
+10:52:03	Battery Voltage: 6.65 V
+10:52:03	Current: 722.87 mA
+10:52:03	Capacity: 589.91 mAh
+10:52:03	
+10:52:13	Battery Voltage: 6.65 V
+10:52:13	Current: 722.87 mA
+10:52:13	Capacity: 591.91 mAh
+10:52:13	
+10:52:23	Battery Voltage: 6.64 V
+10:52:23	Current: 721.81 mA
+10:52:23	Capacity: 593.92 mAh
+10:52:23	
+10:52:33	Battery Voltage: 6.64 V
+10:52:33	Current: 721.81 mA
+10:52:33	Capacity: 595.93 mAh
+10:52:33	
+10:52:43	Battery Voltage: 6.63 V
+10:52:43	Current: 720.75 mA
+10:52:43	Capacity: 597.93 mAh
+10:52:43	
+10:52:53	Battery Voltage: 6.63 V
+10:52:53	Current: 720.75 mA
+10:52:53	Capacity: 599.93 mAh
+10:52:53	
+10:53:03	Battery Voltage: 6.63 V
+10:53:03	Current: 720.75 mA
+10:53:03	Capacity: 601.93 mAh
+10:53:03	
+10:53:13	Battery Voltage: 6.63 V
+10:53:13	Current: 720.75 mA
+10:53:13	Capacity: 603.94 mAh
+10:53:13	
+10:53:23	Battery Voltage: 6.62 V
+10:53:23	Current: 719.68 mA
+10:53:23	Capacity: 605.94 mAh
+10:53:23	
+10:53:33	Battery Voltage: 6.62 V
+10:53:33	Current: 719.68 mA
+10:53:33	Capacity: 607.93 mAh
+10:53:33	
+10:53:43	Battery Voltage: 6.62 V
+10:53:43	Current: 719.68 mA
+10:53:43	Capacity: 609.93 mAh
+10:53:43	
+10:53:53	Battery Voltage: 6.62 V
+10:53:53	Current: 719.68 mA
+10:53:53	Capacity: 611.93 mAh
+10:53:53	
+10:54:03	Battery Voltage: 6.61 V
+10:54:03	Current: 718.62 mA
+10:54:03	Capacity: 613.93 mAh
+10:54:03	
+10:54:13	Battery Voltage: 6.61 V
+10:54:13	Current: 718.62 mA
+10:54:13	Capacity: 615.93 mAh
+10:54:13	
+10:54:23	Battery Voltage: 6.61 V
+10:54:23	Current: 718.62 mA
+10:54:23	Capacity: 617.92 mAh
+10:54:23	
+10:54:33	Battery Voltage: 6.61 V
+10:54:33	Current: 718.62 mA
+10:54:33	Capacity: 619.92 mAh
+10:54:33	
+10:54:43	Battery Voltage: 6.60 V
+10:54:43	Current: 717.56 mA
+10:54:43	Capacity: 621.91 mAh
+10:54:43	
+10:54:53	Battery Voltage: 6.60 V
+10:54:53	Current: 717.56 mA
+10:54:53	Capacity: 623.91 mAh
+10:54:53	
+10:55:03	Battery Voltage: 6.60 V
+10:55:03	Current: 717.56 mA
+10:55:03	Capacity: 625.90 mAh
+10:55:03	
+10:55:13	Battery Voltage: 6.59 V
+10:55:13	Current: 716.50 mA
+10:55:13	Capacity: 627.89 mAh
+10:55:13	
+10:55:23	Battery Voltage: 6.58 V
+10:55:23	Current: 715.44 mA
+10:55:23	Capacity: 629.88 mAh
+10:55:23	
+10:55:33	Battery Voltage: 6.58 V
+10:55:33	Current: 715.44 mA
+10:55:33	Capacity: 631.87 mAh
+10:55:33	
+10:55:43	Battery Voltage: 6.58 V
+10:55:43	Current: 715.44 mA
+10:55:43	Capacity: 633.85 mAh
+10:55:43	
+10:55:53	Battery Voltage: 6.58 V
+10:55:53	Current: 715.44 mA
+10:55:53	Capacity: 635.84 mAh
+10:55:53	
+10:56:03	Battery Voltage: 6.58 V
+10:56:03	Current: 715.44 mA
+10:56:03	Capacity: 637.83 mAh
+10:56:03	
+10:56:13	Battery Voltage: 6.57 V
+10:56:13	Current: 714.38 mA
+10:56:13	Capacity: 639.81 mAh
+10:56:13	
+10:56:23	Battery Voltage: 6.58 V
+10:56:23	Current: 715.44 mA
+10:56:23	Capacity: 641.80 mAh
+10:56:23	
+10:56:33	Battery Voltage: 6.57 V
+10:56:33	Current: 714.38 mA
+10:56:33	Capacity: 643.79 mAh
+10:56:33	
+10:56:43	Battery Voltage: 6.56 V
+10:56:43	Current: 713.32 mA
+10:56:43	Capacity: 645.77 mAh
+10:56:43	
+10:56:53	Battery Voltage: 6.56 V
+10:56:53	Current: 713.32 mA
+10:56:53	Capacity: 647.75 mAh
+10:56:53	
+10:57:03	Battery Voltage: 6.55 V
+10:57:03	Current: 712.25 mA
+10:57:03	Capacity: 649.73 mAh
+10:57:03	
+10:57:13	Battery Voltage: 6.55 V
+10:57:13	Current: 712.25 mA
+10:57:13	Capacity: 651.71 mAh
+10:57:13	
+10:57:23	Battery Voltage: 6.55 V
+10:57:23	Current: 712.25 mA
+10:57:23	Capacity: 653.69 mAh
+10:57:23	
+10:57:33	Battery Voltage: 6.54 V
+10:57:33	Current: 711.19 mA
+10:57:33	Capacity: 655.66 mAh
+10:57:33	
+10:57:43	Battery Voltage: 6.54 V
+10:57:43	Current: 711.19 mA
+10:57:43	Capacity: 657.64 mAh
+10:57:43	
+10:57:54	Battery Voltage: 6.54 V
+10:57:54	Current: 711.19 mA
+10:57:54	Capacity: 659.62 mAh
+10:57:54	
+10:58:03	Battery Voltage: 6.54 V
+10:58:03	Current: 711.19 mA
+10:58:03	Capacity: 661.59 mAh
+10:58:03	
+10:58:13	Battery Voltage: 6.54 V
+10:58:13	Current: 711.19 mA
+10:58:13	Capacity: 663.57 mAh
+10:58:13	
+10:58:24	Battery Voltage: 6.53 V
+10:58:24	Current: 710.13 mA
+10:58:24	Capacity: 665.54 mAh
+10:58:24	
+10:58:33	Battery Voltage: 6.53 V
+10:58:33	Current: 710.13 mA
+10:58:33	Capacity: 667.51 mAh
+10:58:33	
+10:58:43	Battery Voltage: 6.52 V
+10:58:43	Current: 709.07 mA
+10:58:43	Capacity: 669.48 mAh
+10:58:43	
+10:58:53	Battery Voltage: 6.50 V
+10:58:53	Current: 706.95 mA
+10:58:53	Capacity: 671.45 mAh
+10:58:53	
+10:59:04	Battery Voltage: 6.50 V
+10:59:04	Current: 706.95 mA
+10:59:04	Capacity: 673.41 mAh
+10:59:04	
+10:59:14	Battery Voltage: 6.50 V
+10:59:14	Current: 706.95 mA
+10:59:14	Capacity: 675.38 mAh
+10:59:14	
+10:59:24	Battery Voltage: 6.51 V
+10:59:24	Current: 708.01 mA
+10:59:24	Capacity: 677.34 mAh
+10:59:24	
+10:59:34	Battery Voltage: 6.50 V
+10:59:34	Current: 706.95 mA
+10:59:34	Capacity: 679.31 mAh
+10:59:34	
+10:59:44	Battery Voltage: 6.49 V
+10:59:44	Current: 705.88 mA
+10:59:44	Capacity: 681.27 mAh
+10:59:44	
+10:59:54	Battery Voltage: 6.49 V
+10:59:54	Current: 705.88 mA
+10:59:54	Capacity: 683.23 mAh
+10:59:54	
+11:00:04	Battery Voltage: 6.49 V
+11:00:04	Current: 705.88 mA
+11:00:04	Capacity: 685.19 mAh
+11:00:04	
+11:00:14	Battery Voltage: 6.48 V
+11:00:14	Current: 704.82 mA
+11:00:14	Capacity: 687.15 mAh
+11:00:14	
+11:00:24	Battery Voltage: 6.47 V
+11:00:24	Current: 703.76 mA
+11:00:24	Capacity: 689.10 mAh
+11:00:24	
+11:00:34	Battery Voltage: 6.47 V
+11:00:34	Current: 703.76 mA
+11:00:34	Capacity: 691.06 mAh
+11:00:34	
+11:00:44	Battery Voltage: 6.46 V
+11:00:44	Current: 702.70 mA
+11:00:44	Capacity: 693.01 mAh
+11:00:44	
+11:00:54	Battery Voltage: 6.46 V
+11:00:54	Current: 702.70 mA
+11:00:54	Capacity: 694.96 mAh
+11:00:54	
+11:01:04	Battery Voltage: 6.46 V
+11:01:04	Current: 701.64 mA
+11:01:04	Capacity: 696.91 mAh
+11:01:04	
+11:01:14	Battery Voltage: 6.46 V
+11:01:14	Current: 701.64 mA
+11:01:14	Capacity: 698.86 mAh
+11:01:14	
+11:01:24	Battery Voltage: 6.46 V
+11:01:24	Current: 701.64 mA
+11:01:24	Capacity: 700.81 mAh
+11:01:24	
+11:01:34	Battery Voltage: 6.45 V
+11:01:34	Current: 700.58 mA
+11:01:34	Capacity: 702.76 mAh
+11:01:34	
+11:01:44	Battery Voltage: 6.44 V
+11:01:44	Current: 699.52 mA
+11:01:44	Capacity: 704.70 mAh
+11:01:44	
+11:01:54	Battery Voltage: 6.44 V
+11:01:54	Current: 699.52 mA
+11:01:54	Capacity: 706.65 mAh
+11:01:54	
+11:02:04	Battery Voltage: 6.43 V
+11:02:04	Current: 698.45 mA
+11:02:04	Capacity: 708.59 mAh
+11:02:04	
+11:02:14	Battery Voltage: 6.42 V
+11:02:14	Current: 697.39 mA
+11:02:14	Capacity: 710.52 mAh
+11:02:14	
+11:02:24	Battery Voltage: 6.42 V
+11:02:24	Current: 697.39 mA
+11:02:24	Capacity: 712.46 mAh
+11:02:24	
+11:02:34	Battery Voltage: 6.41 V
+11:02:34	Current: 696.33 mA
+11:02:34	Capacity: 714.40 mAh
+11:02:34	
+11:02:44	Battery Voltage: 6.41 V
+11:02:44	Current: 696.33 mA
+11:02:44	Capacity: 716.33 mAh
+11:02:44	
+11:02:54	Battery Voltage: 6.40 V
+11:02:54	Current: 695.27 mA
+11:02:54	Capacity: 718.26 mAh
+11:02:54	
+11:03:04	Battery Voltage: 6.40 V
+11:03:04	Current: 695.27 mA
+11:03:04	Capacity: 720.19 mAh
+11:03:04	
+11:03:14	Battery Voltage: 6.38 V
+11:03:14	Current: 693.15 mA
+11:03:14	Capacity: 722.12 mAh
+11:03:14	
+11:03:24	Battery Voltage: 6.38 V
+11:03:24	Current: 693.15 mA
+11:03:24	Capacity: 724.04 mAh
+11:03:24	
+11:03:34	Battery Voltage: 6.37 V
+11:03:34	Current: 692.09 mA
+11:03:34	Capacity: 725.97 mAh
+11:03:34	
+11:03:44	Battery Voltage: 6.36 V
+11:03:44	Current: 691.02 mA
+11:03:44	Capacity: 727.89 mAh
+11:03:44	
+11:03:54	Battery Voltage: 6.34 V
+11:03:54	Current: 688.90 mA
+11:03:54	Capacity: 729.80 mAh
+11:03:54	
+11:04:04	Battery Voltage: 6.33 V
+11:04:04	Current: 687.84 mA
+11:04:04	Capacity: 731.71 mAh
+11:04:04	
+11:04:14	Battery Voltage: 6.33 V
+11:04:14	Current: 687.84 mA
+11:04:14	Capacity: 733.62 mAh
+11:04:14	
+11:04:24	Battery Voltage: 6.31 V
+11:04:24	Current: 685.72 mA
+11:04:24	Capacity: 735.53 mAh
+11:04:24	
+11:04:34	Battery Voltage: 6.30 V
+11:04:34	Current: 684.66 mA
+11:04:34	Capacity: 737.43 mAh
+11:04:34	
+11:04:44	Battery Voltage: 6.30 V
+11:04:44	Current: 684.66 mA
+11:04:44	Capacity: 739.33 mAh
+11:04:44	
+11:04:54	Battery Voltage: 6.28 V
+11:04:54	Current: 682.53 mA
+11:04:54	Capacity: 741.23 mAh
+11:04:54	
+11:05:04	Battery Voltage: 6.28 V
+11:05:04	Current: 682.53 mA
+11:05:04	Capacity: 743.13 mAh
+11:05:04	
+11:05:14	Battery Voltage: 6.26 V
+11:05:14	Current: 680.41 mA
+11:05:14	Capacity: 745.02 mAh
+11:05:14	
+11:05:24	Battery Voltage: 6.25 V
+11:05:24	Current: 679.35 mA
+11:05:24	Capacity: 746.90 mAh
+11:05:24	
+11:05:34	Battery Voltage: 6.23 V
+11:05:34	Current: 677.22 mA
+11:05:34	Capacity: 748.79 mAh
+11:05:34	
+11:05:44	Battery Voltage: 6.21 V
+11:05:44	Current: 675.10 mA
+11:05:44	Capacity: 750.66 mAh
+11:05:44	
+11:05:54	Battery Voltage: 6.19 V
+11:05:54	Current: 672.98 mA
+11:05:54	Capacity: 752.53 mAh
+11:05:54	
+11:06:04	Battery Voltage: 6.18 V
+11:06:04	Current: 671.92 mA
+11:06:04	Capacity: 754.40 mAh
+11:06:04	
+11:06:14	Battery Voltage: 6.16 V
+11:06:14	Current: 669.79 mA
+11:06:14	Capacity: 756.26 mAh
+11:06:14	
+11:06:24	Battery Voltage: 6.14 V
+11:06:24	Current: 667.67 mA
+11:06:24	Capacity: 758.11 mAh
+11:06:24	
+11:06:34	Battery Voltage: 6.13 V
+11:06:34	Current: 666.61 mA
+11:06:34	Capacity: 759.97 mAh
+11:06:34	
+11:06:44	Battery Voltage: 6.10 V
+11:06:44	Current: 663.43 mA
+11:06:44	Capacity: 761.81 mAh
+11:06:44	
+11:06:54	Battery Voltage: 6.08 V
+11:06:54	Current: 661.30 mA
+11:06:54	Capacity: 763.65 mAh
+11:06:54	
+11:07:04	Battery Voltage: 6.05 V
+11:07:04	Current: 658.12 mA
+11:07:04	Capacity: 765.47 mAh
+11:07:04	
+11:07:14	Battery Voltage: 6.03 V
+11:07:14	Current: 654.93 mA
+11:07:14	Capacity: 767.29 mAh
+11:07:14	
+11:07:24	Battery Voltage: 6.00 V
+11:07:24	Current: 651.75 mA
+11:07:24	Capacity: 769.10 mAh
+11:07:24	
+11:07:34	Battery Voltage: 5.98 V
+11:07:34	Current: 649.63 mA
+11:07:34	Capacity: 770.91 mAh
+11:07:34	
+11:07:44	Battery Voltage: 5.94 V
+11:07:44	Current: 645.38 mA
+11:07:44	Capacity: 772.70 mAh
+11:07:44	
+11:07:54	Battery Voltage: 5.90 V
+11:07:54	Current: 641.13 mA
+11:07:54	Capacity: 774.48 mAh

@@ -3,7 +3,7 @@
 
 #include <lvgl.h>
 #include <TFT_eSPI.h>
-#include <demos/lv_demos.h>
+// #include <demos/lv_demos.h>
 /*To use the built-in examples and demos of LVGL uncomment the includes below respectively.
  *You also need to copy `lvgl/examples` to `lvgl/src/examples`. Similarly for the demos `lvgl/demos` to `lvgl/src/demos`.
  Note that the `lv_examples` library is for LVGL v7 and you shouldn't install it for this version (since LVGL v8)
@@ -84,7 +84,7 @@ void setup() {
      the actual data for your display can be acquired using
      the Generic -> Touch_calibrate example from the TFT_eSPI library*/
   // Use this calibration code in setup():
- uint16_t calData[5] = { 205, 3441, 224, 3493, 7 };
+  uint16_t calData[5] = { 205, 3441, 224, 3493, 7 };
   tft.setTouch(calData);
   // uint16_t calData[5] = { 136, 3541, 208, 3583, 7 };
   // tft.setTouch(calData);
@@ -107,26 +107,21 @@ void setup() {
   indev_drv.type = LV_INDEV_TYPE_POINTER;
   indev_drv.read_cb = my_touchpad_read;
   lv_indev_drv_register(&indev_drv);
+  Serial.println("Setup done");
 
-  /* Create simple label */
-  lv_obj_t *label = lv_label_create(lv_scr_act());
-  lv_label_set_text(label, "Hello Ardino and LVGL!");
-  lv_obj_align(label, LV_ALIGN_CENTER, 0, 0);
-
-  /* Try an example. See all the examples 
-     * online: https://docs.lvgl.io/master/examples.html
-     * source codes: https://github.com/lvgl/lvgl/tree/e7f88efa5853128bf871dde335c0ca8da9eb7731/examples */
-  //lv_example_btn_1();
-
-  /*Or try out a demo. Don't forget to enable the demos in lv_conf.h. E.g. LV_USE_DEMOS_WIDGETS*/
-  lv_demo_widgets();
+  // lv_demo_widgets();
   // lv_demo_benchmark();
   // lv_demo_keypad_encoder();
   // lv_demo_music();
   // lv_demo_printer();
   // lv_demo_stress();
 
-  Serial.println("Setup done");
+  /* Create simple label */
+  lv_obj_t *label2 = lv_label_create(lv_scr_act());
+  lv_label_set_long_mode(label2, LV_LABEL_LONG_SCROLL_CIRCULAR); /*Circular scroll*/
+  lv_obj_set_width(label2, 300);
+  lv_label_set_text(label2, "It is a circularly scrolling text. lorem ipsum dolor sit, apprte cdfrpue defnjd! LOOFG.");
+  lv_obj_align(label2, LV_ALIGN_CENTER, 0, 0);
 }
 
 void loop() {
