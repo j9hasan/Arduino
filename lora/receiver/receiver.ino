@@ -17,7 +17,25 @@
 
 bool STATUS_LED_STATE = 0;
 
+const unsigned long TIMEOUT = 2000;  // Timeout period in milliseconds (5 seconds)
+unsigned long lastPacketTime = 0;
+
 Adafruit_PCD8544 display = Adafruit_PCD8544(CLK, DIN, DC, CE, RST);
+
+// Define the LEDC channel, timer, and output pin
+const int ledcChannel = 0;
+const int ledcTimer = 0;
+const int ledcOutputPin = 26;           // GPIO26
+const int frequency = 1000;             // Frequency of the tone in Hz
+const int resolution = 8;               // LEDC PWM resolution
+const int beepDuration = 50;            // Duration of each beep in milliseconds
+const int pauseDuration = 100;          // Pause duration between beeps in milliseconds
+const int intervalBetweenBeeps = 1000;  // Interval between beep sequences
+
+unsigned long previousMillis = 0;
+bool isBeeping = false;
+int beepState = 0;
+
 
 void DispSetup() {
   pinMode(LCD_BL, OUTPUT);
@@ -70,36 +88,105 @@ void setup() {
   display.setCursor(0, 0);
   display.println("Receiver Mode");
   display.display();
+
+  // Set up the LEDC peripheral
+  ledcSetup(ledcChannel, frequency, resolution);
+
+  // Attach the LEDC channel to the output pin
+  ledcAttachPin(ledcOutputPin, ledcChannel);
 }
 
 String data;
-
+  int packetSize;
 void loop() {
-  // try to parse packet
-  int packetSize = LoRa.parsePacket();
+  // Try to parse packet
+  packetSize = LoRa.parsePacket();
   if (packetSize) {
-  
-    // clear the data string
+    // Clear the data string
     data = "";
 
-    // read packet
+    // Read packet
     while (LoRa.available()) {
       char receivedChar = (char)LoRa.read();
       data += receivedChar;
     }
-    Serial.printf("Received packet %s with RSSI %d\n",data,LoRa.packetRssi());
+    Serial.printf("Received packet %s with RSSI %d\n", data.c_str(), LoRa.packetRssi());
 
+    // Update the display
     display.clearDisplay();
     display.setCursor(12, 0);
     display.printf("RF Receiver");
     display.setCursor(0, 15);
-    display.printf("Data:%s", data);
+    display.printf("Data:%s", data.c_str());
     display.setCursor(0, 25);
     display.printf("RSSI:%d", LoRa.packetRssi());
-
     display.display();
 
+    // Update the status LED
     STATUS_LED_STATE = !STATUS_LED_STATE;
     digitalWrite(STATUS_LED, STATUS_LED_STATE);
+
+    // Update the last packet time
+    lastPacketTime = millis();
+    beepState = 0;
+  } else {
+    // Check if no data has been received for a while
+    if (millis() - lastPacketTime > TIMEOUT) {
+      Serial.println("No data received for a while.");
+      Serial.printf("Packet size %d\n", packetSize);
+
+      // Update the display to indicate no data
+      display.clearDisplay();
+      display.setCursor(12, 0);
+      display.printf("RF Receiver");
+      display.setCursor(0, 15);
+      display.printf("Out of range, No data received.");
+      display.display();
+
+      beepBeep();
+
+      // Optionally, turn off the status LED or blink it in a different pattern
+      digitalWrite(STATUS_LED, LOW);
+    }
+  }
+}
+
+void beepBeep() {
+  unsigned long currentMillis = millis();
+
+  switch (beepState) {
+    case 0:
+      if (currentMillis - previousMillis >= intervalBetweenBeeps) {
+        previousMillis = currentMillis;
+        ledcWriteTone(ledcChannel, frequency);
+        isBeeping = true;
+        beepState = 1;
+      }
+      break;
+
+    case 1:
+      if (currentMillis - previousMillis >= beepDuration) {
+        previousMillis = currentMillis;
+        ledcWriteTone(ledcChannel, 0);  // Stop the tone
+        beepState = 2;
+      }
+      break;
+
+    case 2:
+      if (currentMillis - previousMillis >= pauseDuration) {
+        previousMillis = currentMillis;
+        ledcWriteTone(ledcChannel, frequency);
+        beepState = 3;
+      }
+      break;
+
+    case 3:
+      if (currentMillis - previousMillis >= beepDuration) {
+        previousMillis = currentMillis;
+        ledcWriteTone(ledcChannel, 0);  // Stop the tone
+        isBeeping = false;
+        beepState = 0;
+      }
+      break;
   }
 }
