@@ -4,10 +4,15 @@
 #include <Adafruit_PCD8544.h>
 #include <LoRa.h>
 
+//lora
 #define TXEN 32
 #define RXEN 33
 #define STATUS_LED 5
 
+#define LORA_SPI_SS_PIN 15
+SPIClass hspi(HSPI);
+
+//display
 #define RST -1
 #define CE 21
 #define DC 4
@@ -59,6 +64,7 @@ void DispSetup() {
 }
 
 void setup() {
+
   pinMode(STATUS_LED, OUTPUT);
   digitalWrite(STATUS_LED, LOW);
   // pinMode(TXEN, OUTPUT);
@@ -73,6 +79,9 @@ void setup() {
   while (!Serial)
     ;
   Serial.println("LoRa Receiver");
+
+  LoRa.setSPI(hspi);
+  LoRa.setPins(LORA_SPI_SS_PIN, -1, -1);
 
   if (!LoRa.begin(915E6)) {
     Serial.println("Starting LoRa failed!");
@@ -97,7 +106,7 @@ void setup() {
 }
 
 String data;
-  int packetSize;
+int packetSize;
 void loop() {
   // Try to parse packet
   packetSize = LoRa.parsePacket();
